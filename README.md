@@ -1,0 +1,2 @@
+# instaBot
+JavaScript Instagram Bot
